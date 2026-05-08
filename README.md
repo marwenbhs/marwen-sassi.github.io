@@ -808,7 +808,7 @@
       <a class="contact-link" href="tel:+21650954564">
         ☎ +216 50 954 564
       </a>
-      <a class="contact-link" href="https://www.linkedin.com/in/marwenbhs" target="_blank">
+      <a class="contact-link" href="www.linkedin.com/in/marwen-sassi-network" target="_blank">
         ⇗ LinkedIn
       </a>
     </div>
