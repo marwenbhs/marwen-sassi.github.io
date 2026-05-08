@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html/>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
@@ -816,7 +816,7 @@
 </section>
 
 <footer>
-  <span>© 2024 Marwen Haj Sassi</span>
+  <span>© 2026 Marwen Haj Sassi</span>
   <span>Ariana, Tunisie</span>
 </footer>
 
